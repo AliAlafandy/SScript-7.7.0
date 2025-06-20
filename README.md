@@ -15,7 +15,7 @@ If you have an issue with SScript or have a suggestion, you can always open an i
 Enter this command in command prompt to get the latest release from Haxe library.
 
 
-`haxelib git SScript https://github.com/TahirKarabekiroglu/SScript.git`
+`haxelib git SScript https://github.com/AliAlafandy/SScript-0.7.7.git`
 
 Enter this command in command prompt to get the latest git release from Github. 
 Git releases have the latest features but they are unstable and can cause problems.
