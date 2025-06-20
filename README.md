@@ -1,6 +1,6 @@
 
 
-![TeaLogo](docs/3o2yt2d.png)
+![TeaLogo](docs/3o2yt2d.jpeg)
 
 # SScript
 
