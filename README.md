@@ -1,6 +1,6 @@
 
 
-![TeaLogo](docs/3o2yt2d.jpeg)
+![TeaLogo](https://i.hizliresim.com/3o2yt2d.jpeg)
 
 # SScript
 
